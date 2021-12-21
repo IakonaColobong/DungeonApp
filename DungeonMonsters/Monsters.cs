@@ -1,14 +1,14 @@
-﻿using System;
+﻿using DungeonLibrary;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DungeonLibrary
+namespace DungeonMonsters
 {
-    public class Monsters : Character
+    public class Orc : Monsters
     {
-
         //Frugal / Fields  --- this is the order you generally find them in class  Files. 
         //we will have a business rule on MinDamage, we need a full prop and full field
 
@@ -28,9 +28,9 @@ namespace DungeonLibrary
             }//end MinDamage
         }
 
-        public Monsters() { }
+        public Monster() { }
 
-        public Monsters(string name, int life, int maxLife, int hitChance, int block, int minDamage, int maxDamage, string description)
+        public Monster(string name, int life, int maxLife, int hitChance, int block, int minDamage, int maxDamage, string description)
         {
             //PascalCase - camelCase
             MaxDamage = maxLife;
@@ -69,6 +69,8 @@ namespace DungeonLibrary
             //only return a random number between 2 and 7. 
             //remember Rand counts 0 as a number and ends BEFORE the end number. 
 
-        }
-    }//END Class
-}//END Namespace
+
+
+
+        }//END class
+    }//END namespace

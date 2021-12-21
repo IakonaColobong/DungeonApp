@@ -18,4 +18,11 @@ namespace DungeonLibrary
 
 
     }//end enum
+
+
+
+
+    string hero
+
+
 }//end namespace
