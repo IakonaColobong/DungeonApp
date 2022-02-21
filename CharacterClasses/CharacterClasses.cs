@@ -22,7 +22,7 @@ namespace DungeonLibrary
 
 
 
-    string hero
+    
 
 
 }//end namespace
