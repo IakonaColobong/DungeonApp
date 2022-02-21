@@ -8,6 +8,7 @@ namespace CharacterClasses
 {
     public class Weapons
     {
+        //functionality to be added
 
 
     }
