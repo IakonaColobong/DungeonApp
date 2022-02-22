@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\bin\Debug\Dungeon.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\bin\Debug\Dungeon.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\bin\Debug\Dungeon.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\bin\Debug\DungeonLibrary.dll
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\bin\Debug\DungeonMonsters.dll
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\bin\Debug\DungeonLibrary.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\bin\Debug\DungeonMonsters.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\obj\Debug\Dungeon.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\obj\Debug\Dungeon.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\211108d\03_CSF2\Dungeon\obj\Debug\Dungeon.pdb
